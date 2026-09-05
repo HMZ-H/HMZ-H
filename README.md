@@ -24,7 +24,7 @@ problems.
 - 🔭 Building **[Codalyra-AI](https://github.com/HMZ-H/codalyra-ai)** — a platform for evaluating AI coding agents
 - 🌱 Going deeper on **agent trajectories, grader design, and MCP**
 - 💬 Ask me about **Go, Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes**
-- 🌐 Portfolio — **[hamzhaji.me](https://hamzhaji.me)**
+- 🌐 Portfolio — **[hamzhaji.me](https://hamzahaji.me)**
 - 📫 **hamza.fato04@gmail.com**
 
 ---
