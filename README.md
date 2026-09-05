@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%C2%B7+Go+%26+Python;AI+Evaluation+%26+Developer+Tools;Nairobi%2C+Kenya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%C2%B7+Go+%26+Python;AI+Evaluation+%26+Developer+Tools;%2C+Ethiopia" />
 </p>
 
 <h1 align="center">Hi, I'm Hamza 👋</h1>
