@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Hamza 👋</h1>
 
 <p align="center">
-  <a href="https://hamzahaji.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://hamzahaji.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hamza-haji-327852386/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hamza.fato04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=HMZ-H&style=for-the-badge&color=0A66C2"/>
@@ -21,10 +21,9 @@ automated grading, and the reproducible Docker and Kubernetes environments those
 evaluations run in. I like building reliable systems and solving practical engineering
 problems.
 
-- 🔭 Building **[Codalyra-AI](https://github.com/HMZ-H/codalyra-ai)** — a platform for evaluating AI coding agents
 - 🌱 Going deeper on **agent trajectories, grader design, and MCP**
 - 💬 Ask me about **Go, Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes**
-- 🌐 Portfolio — **[hamzhaji.me](https://hamzahaji.me)**
+- 🌐 Portfolio — **[hamzahaji.me](https://hamzahaji.me/)**
 - 📫 **hamza.fato04@gmail.com**
 
 ---
@@ -54,7 +53,7 @@ commerce platform: REST APIs, PostgreSQL data models, and a Docker-containerized
 ---
 
 <p align="center">
-  <a href="https://hamzhaji.me">Portfolio</a> ·
+  <a href="https://hamzahaji.me/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/hamza-haji-327852386/">LinkedIn</a> ·
   <a href="mailto:hamza.fato04@gmail.com">Email</a>
 </p>
