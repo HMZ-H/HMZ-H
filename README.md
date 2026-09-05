@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Software Engineer</b> · Backend · AI Evaluation · Developer Tools<br/>
+  Nairobi, Kenya 🇰🇪
 </p>
 
 <p align="center">
@@ -29,27 +30,17 @@ problems.
 
 ### 🚀 Featured Project
 
-<table>
-<tr>
-<td width="60%">
+**[Codalyra-AI](https://github.com/HMZ-H/codalyra-ai)** — a full-stack platform for
+evaluating AI coding agents on realistic software engineering tasks. Agents work
+inside isolated Docker environments; every action is recorded as a trajectory and
+scored by automated graders against visible and hidden tests.
 
-#### [Codalyra-AI](https://github.com/HMZ-H/codalyra-ai)
-A full-stack platform for evaluating AI coding agents on realistic
-software engineering tasks. Agents work inside isolated Docker
-environments; every action is recorded as a trajectory and scored
-by automated graders against visible and hidden tests.
+`FastAPI` · `Python` · `React` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `Kubernetes`
 
-`FastAPI` `Python` `React` `PostgreSQL` `Redis` `Celery` `Docker` `Kubernetes`
+**[AI FashionHub](https://github.com/HMZ-H/FashionHub)** — backend for an AI-powered
+commerce platform: REST APIs, PostgreSQL data models, and a Docker-containerized stack.
 
-</td>
-<td width="40%">
-
-<!-- Replace with a real screenshot of the app -->
-<img src="docs/screenshot.png" width="100%"/>
-
-</td>
-</tr>
-</table>
+`Go` · `Python` · `PostgreSQL` · `Docker`
 
 ---
 
@@ -60,6 +51,7 @@ by automated graders against visible and hidden tests.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -80,6 +72,7 @@ by automated graders against visible and hidden tests.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Frontend**
@@ -92,9 +85,3 @@ by automated graders against visible and hidden tests.
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HMZ-H&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
