@@ -21,26 +21,7 @@ automated grading, and the reproducible Docker and Kubernetes environments those
 evaluations run in. I like building reliable systems and solving practical engineering
 problems.
 
-- 🌱 Going deeper on **agent trajectories, grader design, and MCP**
 - 💬 Ask me about **Go, Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes**
-- 🌐 Portfolio — **[hamzahaji.me](https://hamzahaji.me/)**
-- 📫 **hamza.fato04@gmail.com**
-
----
-
-### 🚀 Featured Projects
-
-**[Codalyra-AI](https://github.com/HMZ-H/codalyra-ai)** — a full-stack platform for
-evaluating AI coding agents on realistic software engineering tasks. Agents work
-inside isolated Docker environments; every action is recorded as a trajectory and
-scored by automated graders against visible and hidden tests.
-
-`FastAPI` · `Python` · `React` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `Kubernetes`
-
-**[AI FashionHub](https://github.com/HMZ-H/FashionHub)** — backend for an AI-powered
-commerce platform: REST APIs, PostgreSQL data models, and a Docker-containerized stack.
-
-`Go` · `Python` · `PostgreSQL` · `Docker`
 
 ---
 
