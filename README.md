@@ -34,7 +34,7 @@ problems.
 ---
 
 <p align="center">
-  <a href="https://hamzahaji.me/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/hamza-haji-327852386/">LinkedIn</a> ·
-  <a href="mailto:hamza.fato04@gmail.com">Email</a>
+  <a href="https://hamzahaji.me/">
+    <img src="https://skillicons.dev/icons?i=go,python,ts,js,bash,fastapi,postgres,redis,mongodb,docker,kubernetes,linux,git,githubactions,react,nextjs,tailwind&theme=dark" />
+  </a>
 </p>
