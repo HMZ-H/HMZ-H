@@ -61,7 +61,9 @@ the extra structure is measured rather than assumed.
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,ts,js,bash,fastapi,postgres,redis,mongodb,docker,kubernetes,linux,git,githubactions,react&theme=dark" />
+  <a href="https://hamzahaji.me/">
+    <img src="https://skillicons.dev/icons?i=go,python,ts,js,bash,fastapi,postgres,redis,mongodb,docker,kubernetes,linux,git,githubactions,react&theme=dark" />
+  </a>
 </p>
 
 ---
