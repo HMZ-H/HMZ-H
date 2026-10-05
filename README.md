@@ -33,6 +33,15 @@ green, and would my checks catch it?
 
 ### Published Environments
 
+**[swe-arrow-range](https://github.com/HMZ-H/swe-arrow-range)**
+[![validate](https://github.com/HMZ-H/swe-arrow-range/actions/workflows/validate.yml/badge.svg)](https://github.com/HMZ-H/swe-arrow-range/actions/workflows/validate.yml)
+A containerized bug-fix task built from a real commit in the `arrow` library, shipped
+with the cheat solutions already written. Delete the test file, exit zero from conftest,
+skip everything, monkeypatch the library in memory — five of them, each proven to score
+zero on every push. The grader takes only your changes to library source and replays
+them onto a clean checkout, so nothing you leave elsewhere in the tree comes along.
+*Python · Docker · pytest · GitHub Actions*
+
 **[root-cause-diagnosis](https://github.com/HMZ-H/root-cause-diagnosis)** · [on the Hub](https://app.primeintellect.ai/dashboard/environments/hamzahaji/root-cause-diagnosis)
 18 backend and infrastructure incidents where the obvious answer is the symptom, not
 the cause. Every case carries a decoy that is true, visible in the evidence, and still
